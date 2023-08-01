@@ -1,9 +1,16 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+    "id": "0",
+    "imageUrl": "https://i.ibb.co/yhqcsRG/Rectangle461.jpg",
+    "title": "Економ",
+    "sizes": "90x70x180",
+    "area": "0,63",
+    "equipment": ["https://i.ibb.co/1sB5Q9q/Vector1.png"],
+    "price": 10,
+    "category": 1,
+    "rating": 4
+  }
   ],
   "profile": {
     "name": "typicode"
