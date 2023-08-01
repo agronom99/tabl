@@ -69,6 +69,7 @@
     "rating": 4
   }
   ],
+  
   "pizza shop":[
     {
    "id": "0",
@@ -234,6 +235,7 @@
    "rating": 7
   }
   ],
+  
   "profile": {
     "name": "typicode"
   }
