@@ -1,4 +1,5 @@
- {
+[
+{
     "id": "0",
     "imageUrl": "https://i.ibb.co/yhqcsRG/Rectangle461.jpg",
     "title": "Економ",
@@ -55,3 +56,4 @@
     "category": 1,
     "rating": 4
   }
+]
