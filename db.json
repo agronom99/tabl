@@ -1,8 +1,11 @@
- {
-    "id": "0",
-    "imageUrl": "https://i.ibb.co/yhqcsRG/Rectangle461.jpg",
-    "title": "Економ",
-    "sizes": "90x70x180",
-    "area": "0,63"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
- 
+}
