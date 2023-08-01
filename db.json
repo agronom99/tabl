@@ -1,35 +1,9 @@
 {
-    "id": "0",
-    "imageUrl": "https://i.ibb.co/yhqcsRG/Rectangle461.jpg",
+    "id": "0", 
     "title": "Економ",
     "sizes": "90x70x180",
     "area": "0,63",
-    "equipment": ["https://i.ibb.co/1sB5Q9q/Vector1.png"],
     "price": 10,
-    "category": 1,
-    "rating": 4
-  },
-  {
-    "id": "1",
-    "imageUrl": "https://i.ibb.co/7vPc9Ts/Rectangle462.jpg",
-    "title": "Економ плюс",
-
-    "sizes": "90x100x180",
-    "area": "0,9",
-    "equipment": ["https://i.ibb.co/MR09pfb/Vector2.png",
-     "https://i.ibb.co/PZgtvfL/Vector3.png"],
-    "price": 20,
-    "category": 1,
-    "rating": 4
-  },
-  {
-    "id": "2",
-    "imageUrl": "https://i.ibb.co/xYZ5Yjw/Rectangle463.jpg",
-    "title": "Комфорт",
-    "sizes": "100x125x180",
-    "area": "1,13",
-    "equipment": ["https://i.ibb.co/MR09pfb/Vector2.png", "https://i.ibb.co/PZgtvfL/Vector3.png", "https://i.ibb.co/rGLjrp7/Vector4.png"],
-    "price": 25,
     "category": 1,
     "rating": 4
   }
