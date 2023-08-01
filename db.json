@@ -1,7 +1,11 @@
 {
-    "id": "0", 
-    "title": "Економ",
-    "sizes": "90x70x180",
-    "area": "0,63",
-    "price": 10
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
